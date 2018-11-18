@@ -2,7 +2,11 @@
 
 Simple python script to _Collect, Parse, Store and Expose_ data from a CLI ouput
 
-Created by fbellom
+
+## collector_asr01:
+
+This CPSE Script is aimed to collect information about interface metrics from Cisco IOS-XE CLI using ```pexpect```
+
 
 ## uxspeed:
 
