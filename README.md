@@ -13,3 +13,7 @@ This CPSE Script is aimed to collect information about interface metrics from Ci
 This CPSE Script is aimed to use ```speedtest-cli``` utility to collect info about perceived performance by users.
 
 Basically Use the --simple switch and a specific server to keep the test steady. The server is choose by proximity.
+
+## CPSE Grafana dashboard
+
+For the Grafana, InfluxDB Stack to display the metrics
